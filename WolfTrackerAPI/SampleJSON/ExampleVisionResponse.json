@@ -1,0 +1,71 @@
+﻿// The image used was https://wolftracker9eee.blob.core.windows.net/wolfpictures-mock/wolf1.png
+
+{
+	"adult": {
+		"isAdultContent": false,
+		"isRacyContent": false,
+		"adultScore": 0.045405566692352295,
+		"racyScore": 0.053407467901706696
+	},
+	"tags": [
+		{
+			"name": "animal",
+			"confidence": 0.99884206056594849
+		},
+		{
+			"name": "mammal",
+			"confidence": 0.99875128269195557,
+			"hint": "animal"
+		},
+		{
+			"name": "wolf",
+			"confidence": 0.99746441841125488,
+			"hint": "animal"
+		},
+		{
+			"name": "cat",
+			"confidence": 0.99342304468154907
+		}
+	],
+	"description": {
+		"tags": [
+			"animal",
+			"mammal",
+			"wolf",
+			"cat",
+			"dog",
+			"standing",
+			"looking",
+			"photo",
+			"small",
+			"sheep",
+			"bear",
+			"front",
+			"sitting",
+			"brown",
+			"black",
+			"playing",
+			"grey",
+			"white",
+			"water",
+			"mirror",
+			"walking",
+			"reflection",
+			"polar",
+			"snow",
+			"teeth"
+		],
+		"captions": [
+			{
+				"text": "a wolf that is looking at the camera",
+				"confidence": 0.76019154297350133
+			}
+		]
+	},
+	"requestId": "9a854f5b-51bb-467b-a513-bbb865d14a7c",
+	"metadata": {
+		"width": 400,
+		"height": 267,
+		"format": "Png"
+	}
+}
